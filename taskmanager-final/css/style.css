@@ -1,0 +1,38 @@
+body {
+    background: #ffffff!important;
+  }
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  .navbar{
+    background-color: #395D67 !important;
+  }
+  .navbar
+  a{  
+    position: sticky !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold;
+  }
+  .navright
+  a{
+    float: right !important;
+  }
+  
+  .checked {
+    color: #395D67 !important;
+    text-decoration: line-through;
+    stroke-width: 2px;
+  }
+  .todo-img{
+    min-height: 550px !important;
+    max-width: 650px !important;
+    min-width: 650px !important;
+    max-height: 550px !important;
+    margin-left: 600px!important;
+    margin-top: 0px !important;
+    position: fixed !important;
+
+  }
